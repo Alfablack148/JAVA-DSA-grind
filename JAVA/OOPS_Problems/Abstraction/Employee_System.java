@@ -62,7 +62,7 @@ class Manager extends Employee {
 }
 public class Employee_System {
     public static void main(String[] args) {
-        Manager manager = new Manager("Bagavathi", 101, 50000, 10000);
+        Manager manager = new Manager("Toto", 101, 50000, 10000);
         manager.displayDetails();
     }
 }
