@@ -1,2 +1,2 @@
 # JAVA-DSA-grind
-⚔️ DSA WARZONE – Java-Fueled Daily Grind to Crush Code &amp; Conquer Logic Realms 🧠🔥
+⚔️ DSA WARZONE – Code-Powered Gladiator’s Grind to Conquer Algorithms & Crush Logic Battles 🧠🔥
