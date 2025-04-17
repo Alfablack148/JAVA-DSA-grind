@@ -1,4 +1,4 @@
-package JAVA.Bacis_Problems;
+package JAVA.Bascis_Problems;
 
 import java.util.Scanner;
 
