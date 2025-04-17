@@ -1,5 +1,3 @@
-package JAVA.Bascis_Problems;
-
 import java.util.Scanner;
 
 public class FibonacciSequence {
