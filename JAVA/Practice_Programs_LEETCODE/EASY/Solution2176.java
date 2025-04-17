@@ -1,4 +1,4 @@
-class Solution {
+public class Solution2176 {
     public int countPairs(int[] nums, int k) {
         int count = 0;
         int n = nums.length;
