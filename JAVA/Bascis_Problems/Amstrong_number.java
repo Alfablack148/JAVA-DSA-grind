@@ -15,9 +15,7 @@ public class Amstrong_number {
         }
         int amstrong = 0;
        while (n != 0) {
-
-        int lastDigit = n % 10;
-        amstrong = amstrong + (int)(Math.pow(lastDigit, count));
+        amstrong = amstrong + (int)(Math.pow(n%10, count));
         n/=10;
         
        }
