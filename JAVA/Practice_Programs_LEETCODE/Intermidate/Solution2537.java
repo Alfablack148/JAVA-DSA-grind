@@ -1,6 +1,6 @@
 package JAVA.Practice_Programs_LEETCODE.Intermidate;
 
-import java.util.HashMap;
+import java.util.*;
 
 public class Solution2537 {
       public long countGood(int[] nums, int k) {

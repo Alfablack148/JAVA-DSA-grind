@@ -1,8 +1,6 @@
 package JAVA.Practice_Programs_LEETCODE.Intermidate;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class Solution18 {
       public List<List<Integer>> fourSum(int[] nums, int target) {
